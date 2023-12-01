@@ -1,0 +1,33 @@
+Greenfoot- Creating Text by user Mrligocki
+
+url: https://www.youtube.com/watch?v=xR2-Gt33rVY
+
+used for: Label UI and Label UI updater
+
+
+Greenfoot Lesson 26 - Simple platform game Part 1 by user Jim Stewart
+
+url: https://www.youtube.com/watch?v=jIhuo9gH3FE&t=10s
+
+used for: jump controls/ gravity 
+
+
+Greenfoot Lesson 27 Simple Platform part 2 by user Jim Stewart
+
+url: https://www.youtube.com/watch?v=qjxy0P4aqLU&t=617s
+
+used for: platform detection
+
+Greenfoot Lesson 28 simple platform part 3 by user Jim Stewart
+
+url: https://www.youtube.com/watch?v=tWl7Ulw_uC8
+
+used for: platform detection cont.
+
+
+
+Ant Sprite modified from Arnie (Ant) by Timothy Courtney (timothycourtney.io)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+
